@@ -7,3 +7,5 @@ Invariantti massa -harjoitus: [![Binder](https://mybinder.org/badge_logo.svg)](h
 Covid-tapaukset: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=covid-plots.ipynb)
 
 Kehitysindikaattorit: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=Indicators.ipynb)
+
+Yleisiä ongelmia datan kanssa: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=yleisia-ongelmia.ipynb)
