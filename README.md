@@ -1,13 +1,9 @@
 # Avoin-data-koulutus
 
-Statistiikkaa Avoin data -koulutuksen osallistujista 12.-20.4.2021
+Statistiikkaa Avoin data -koulutuksen osallistujista 12.-20.4.2021: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=koulutus_osallistujat.ipynb)
 
-Avaa notebook MyBinderissa: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=koulutus_osallistujat.ipynb)
+Invariantti massa -harjoitus: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=invariantti_massa.ipynb)
 
-Invariantti massa -harjoitus
+Covid-tapaukset: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=covid-plots.ipynb)
 
-Avaa notebook MyBinderissa: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=invariantti_massa.ipynb)
-
-Covid-tapaukset
-
-Avaa notebook MyBinderissa: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=covid-plots.ipynb)
+Kehitysindikaattorit: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuhaTeuho/Avoin-data-koulutus/HEAD?filepath=Indicators.ipynb)
